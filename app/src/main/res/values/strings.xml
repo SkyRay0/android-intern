@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_text">Старт</string>
+    <string name="editTextHint">Введите адрес сообщества</string>
+    <string name="loading_string">Загрузка контента, пожалуйста подождите...</string>
+    <string name="authorize_string">Авторизоваться</string>
+    <string name="vk_api_string">Введите токен доступа VK API</string>
+</resources>
